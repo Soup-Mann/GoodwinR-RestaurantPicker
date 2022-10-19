@@ -1,0 +1,15 @@
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\bin\Debug\net6.0\GoodwinR#RestaurantPicker.exe
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\bin\Debug\net6.0\GoodwinR#RestaurantPicker.deps.json
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\bin\Debug\net6.0\GoodwinR#RestaurantPicker.runtimeconfig.json
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\bin\Debug\net6.0\GoodwinR#RestaurantPicker.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\bin\Debug\net6.0\GoodwinR#RestaurantPicker.pdb
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\obj\Debug\net6.0\GoodwinR#RestaurantPicker.csproj.AssemblyReference.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\obj\Debug\net6.0\GoodwinR#RestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\obj\Debug\net6.0\GoodwinR#RestaurantPicker.AssemblyInfoInputs.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\obj\Debug\net6.0\GoodwinR#RestaurantPicker.AssemblyInfo.cs
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\obj\Debug\net6.0\GoodwinR#RestaurantPicker.csproj.CoreCompileInputs.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\obj\Debug\net6.0\GoodwinR#RestaurantPicker.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\obj\Debug\net6.0\refint\GoodwinR#RestaurantPicker.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\obj\Debug\net6.0\GoodwinR#RestaurantPicker.pdb
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\obj\Debug\net6.0\GoodwinR#RestaurantPicker.genruntimeconfig.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#RestaurantPicker\obj\Debug\net6.0\ref\GoodwinR#RestaurantPicker.dll
